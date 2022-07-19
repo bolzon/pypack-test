@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6d883f7a8eb82f175a85fbf67620aeb636b88eac882dae38334d9a908b5e1fe0"
+            "sha256": "745fd117ac0f22b7cab0d5e1461fb3ac7a48d8b15e9bae1d51add901948a5a5e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -18,7 +18,7 @@
     "default": {
         "pypack": {
             "git": "https://github.com/bolzon/pypack.git",
-            "ref": "329d86037ca2411ce7a060e32385d5e3d2b10df6"
+            "ref": "eb8470e4de9a7222fb75a4fbf194cea588d4326b"
         }
     },
     "develop": {}

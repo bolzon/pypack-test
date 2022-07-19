@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pypack = {git = "https://github.com/bolzon/pypack.git"}
+pypack = {ref = "0.0.1", git = "https://github.com/bolzon/pypack.git"}
 
 [dev-packages]
 
